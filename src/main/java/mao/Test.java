@@ -52,8 +52,7 @@ public class Test
         menuComponent3.add(menuComponent12);
         menuComponent3.add(menuComponent13);
 
-
-
+        menuComponent.print();
 
     }
 }

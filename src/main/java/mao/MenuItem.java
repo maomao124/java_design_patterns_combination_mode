@@ -24,9 +24,10 @@ public class MenuItem extends MenuComponent
     @Override
     public void print()
     {
+        System.out.print("|");
         for (int i = 1; i < this.level; i++)
         {
-            System.out.print("--");
+            System.out.print("---");
         }
         System.out.println(this.name);
     }
