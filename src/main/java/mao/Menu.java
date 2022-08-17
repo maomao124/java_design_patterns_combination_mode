@@ -18,7 +18,7 @@ import java.util.List;
 
 public class Menu extends MenuComponent
 {
-    private List<MenuComponent> menuComponentList;
+    private final List<MenuComponent> menuComponentList;
 
     public Menu(String name, int level)
     {
