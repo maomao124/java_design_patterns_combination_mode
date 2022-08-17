@@ -27,7 +27,7 @@
     </dependencies>
 
     <build>
-        <finalName>java_design_patterns_combination_mode</finalName>
+        <finalName>java设计模式_组合模式</finalName>
         <!--更改项，也可以不改，打包的jar文件名称-->
         <plugins>
             <plugin>
